@@ -1,2 +1,0 @@
-For features tempo , time_signature and valence , and test/train ratio 0.3 the perceptron had 319 missclassifications and had an accuracy of 0.4727272727272727 
-
